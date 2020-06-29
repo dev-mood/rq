@@ -3,6 +3,7 @@
     <img src="/logo.png" alt="Logo" width="300" />
     <div v-if="!type" class="links">
       <button
+        type="button"
         v-for="(link, index) in links"
         :key="index"
         class="button"
@@ -11,15 +12,19 @@
         {{ link.type }}
       </button>
     </div>
-    <button v-else class="generate" @click="generateQuestion">
+    <button v-else type="button" class="generate" @click="generateQuestion">
       Generar pregunta
     </button>
     <template v-if="type && question">
       <p class="question">{{ question.value }}</p>
       <div class="btn-group">
-        <button class="button" @click="copyToClipboard">Copiar</button>
+        <button type="button" class="button" @click="copyToClipboard">
+          Copiar
+        </button>
       </div>
-      <button class="button" @click="clear">Elegir otra categoría</button>
+      <button type="button" class="button" @click="clear">
+        Elegir otra categoría
+      </button>
     </template>
   </div>
 </template>
@@ -70,9 +75,9 @@ export default {
       alert('Pregunta copiada!')
     },
     clear() {
-      this.type = null;
-      this.question = null;
-    }
+      this.type = null
+      this.question = null
+    },
   },
   computed: {
     questionsSelecteds() {
