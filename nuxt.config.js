@@ -119,7 +119,11 @@ export default {
     ],
     script: [
       {
-        src: '/js/matamo.js',
+        src: 'https://www.googletagmanager.com/gtag/js?id=UA-171271634-1',
+        async: true,
+      },
+      {
+        src: '/js/gtag.js',
       },
       {
         src: '/js/color-scheme.js',
