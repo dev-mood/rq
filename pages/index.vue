@@ -145,6 +145,12 @@ export default {
     transition-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
     outline: none;
   }
+  &:focus {
+    outline: none;
+     border-color: inherit;
+  -webkit-box-shadow: none;
+  box-shadow: none;;
+  }
 }
 .question {
   text-align: center;

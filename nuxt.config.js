@@ -14,10 +14,16 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
+    htmlAttrs: {
+      lang: 'es',
+    },
     title: 'Random Questions',
     meta: [
       { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      {
+        name: 'viewport',
+        content: 'user-scalable=no, width=device-width, initial-scale=1.0',
+      },
       {
         hid: 'description',
         name: 'description',
