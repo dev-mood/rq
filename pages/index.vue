@@ -26,6 +26,8 @@
         Elegir otra categoría
       </button>
     </template>
+
+    <notifications group="copy" position="bottom center"/>
   </div>
 </template>
 
@@ -72,7 +74,11 @@ export default {
       el.select()
       document.execCommand('copy')
       document.body.removeChild(el)
-      alert('Pregunta copiada!')
+      this.$notify({
+        group: 'copy',
+        type: 'success',
+        text: 'Pregunta copiada!',
+      })
     },
     clear() {
       this.type = null
