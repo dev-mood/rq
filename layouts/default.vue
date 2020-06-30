@@ -62,6 +62,7 @@ html {
   text-decoration: none;
   padding: 0.3rem 0.6rem;
   margin-left: 0.3rem;
+      font-size: 1.3rem;
   background: transparent;
   cursor: pointer;
   &:hover {
