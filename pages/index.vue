@@ -27,7 +27,7 @@
       </button>
     </template>
 
-    <notifications group="copy" position="bottom center"/>
+    <notifications group="copy" position="bottom center" />
   </div>
 </template>
 
@@ -147,9 +147,9 @@ export default {
   }
   &:focus {
     outline: none;
-     border-color: inherit;
-  -webkit-box-shadow: none;
-  box-shadow: none;;
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
   }
 }
 .question {
