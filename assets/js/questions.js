@@ -619,635 +619,219 @@ export const questions = [
     value: '¿Crees que las amistades son para siempre?',
     type: '😄',
   },
+
+  { value: 'Soñé contigo... ¿te cuento qué pasaba?', type: '🔥' },
+  { value: 'Y... ¿Qué harás esta noche?', type: '🔥' },
+  { value: '¿Qué me harás esta noche?', type: '🔥' },
+  { value: '¿Hay alguna fantasía que te gustaría hacer conmigo?', type: '🔥' },
   {
     value:
-      '¿Has llevado a cabo todas las fantasía sexuales que has tenido en mente?',
+      '¿Tienes que hacer algo después del trabajo? (punto… si mejor preguntas que se escapen un día entero)',
     type: '🔥',
   },
+  { value: '¿Te gusta el sexo en el día, en la noche... o ahora?', type: '🔥' },
   {
-    value: '¿Has probado de tener un baño sensual para ti y tu pareja?',
+    value: '¿Has tenido alguna fantasía en otro lugar que no sea la cama?',
     type: '🔥',
   },
-  {
-    value:
-      '¿Te gustaría que alguien del sexo opuesto (en el caso de ser heterosexual) te pillara teniendo relaciones íntimas con tu pareja?',
-    type: '🔥',
-  },
+  { value: '¿Te gusta el sexo rápido?', type: '🔥' },
   {
     value:
-      'Del 1 al 10… ¿cuánta importancia le das al sexo en tus relaciones de pareja?',
+      '¿Te gusta ver una película erótica/pornográfica antes de tener sexo?',
+    type: '🔥',
+  },
+  { value: '¿Y si lo intentamos con los ojos vendados?', type: '🔥' },
+  {
+    value: '¿Dejarías que te atara las manos y los pies a la cama?',
+    type: '🔥',
+  },
+  { value: '¿Te gusta el foreplay intenso o tranquilo?', type: '🔥' },
+  { value: '¿Te gustaría que usáramos juguetes durante el sexo?', type: '🔥' },
+  { value: '¿Dónde te gustaría que te besara primero?', type: '🔥' },
+  {
+    value: '¿Hay alguna posición que te gustaría que intentáramos?',
+    type: '🔥',
+  },
+  { value: '¿Cómo describirías mi cuerpo?', type: '🔥' },
+  { value: '¿Crees aguantar todo un día conmigo, encerrados?', type: '🔥' },
+  {
+    value: '¿Alguna vez has pensado en grabarnos mientras tenemos sexo?',
     type: '🔥',
   },
   {
-    value: '¿Conoces los gustos sexuales de tu pareja?',
+    value: '¿Alguna vez has pensado quitarme la ropa con los dientes?',
     type: '🔥',
   },
+  { value: '¿En qué lugar público te gustaría hacerlo?', type: '🔥' },
+  { value: '¿Te gustaría un lap-dance?', type: '🔥' },
   {
-    value:
-      '¿Cuál es la parte del cuerpo preferida de otra persona con la que vas a tener relaciones íntimas?',
+    value: '¿Te gustaría que uasara lencería o algún tipo de ropa en especial?',
     type: '🔥',
   },
-  {
-    value: '¿Harías un trío si estuvieras soltero?',
-    type: '🔥',
-  },
-  {
-    value: '¿Películas porno o películas eróticas?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Conoces algún alimento afrodisíaco que te podría ayudar a rendir más?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Alguna vez habéis probado de vendar vuestros ojos (el tuyo y el de tu pareja) para poner a prueba el resto de los sentidos?',
-    type: '🔥',
-  },
-  {
-    value: '¿Sabes qué beneficios aporta tener sexo?',
-    type: '🔥',
-  },
-  {
-    value: '¿Probarías la práctica sexual del sadomasoquismo?',
-    type: '🔥',
-  },
-  {
-    value: '¿Qué es lo que más valoras en la cama?',
-    type: '🔥',
-  },
-  {
-    value: '¿Te esfuerzas por descubrir los puntos erógenos de tu pareja?',
-    type: '🔥',
-  },
-  {
-    value: 'Del 1 al 10… ¿cuál es tú nivel de autoconfianza en la cama?',
-    type: '🔥',
-  },
-  {
-    value: '¿Irías a un sitio de intercambio de parejas?',
-    type: '🔥',
-  },
-  {
-    value: '¿Te gustaría practicar sexo “outdoor”?',
-    type: '🔥',
-  },
+  { value: '¿Te gustaría probar el sadomasoquismo?', type: '🔥' },
+  { value: '¿Has fantaseado con que alguien más nos vea?', type: '🔥' },
   {
     value:
-      '¿Harías un striptease a tu pareja o alguien con quien tiene relaciones sexuales?',
+      '¿Te gusta que sea yo quien tenga la iniciativa, o prefieres hacer tú el primer paso?',
     type: '🔥',
   },
+  {
+    value: '¿Te gustaría que te jalara el pelo mientras lo hacemos?',
+    type: '🔥',
+  },
+  { value: '¿Te gustan los ruidos o el sexo silencioso?', type: '🔥' },
+  { value: '¿Prefieres estar arriba o abajo?', type: '🔥' },
+  { value: '¿Qué música podrías decir que te enciende más?', type: '🔥' },
+  { value: '¿Te gusta romántico o rudo por completo?', type: '🔥' },
+  { value: '¿Qué es lo más sucio que nos imaginas haciendo?', type: '🔥' },
+  {
+    value: '¿Te gustaría hacerlo en el agua o mientras nos bañamos?',
+    type: '🔥',
+  },
+  { value: '¿Te daría miedo intentar algo extremo en la cama?', type: '🔥' },
+  {
+    value: '¿Has fantaseado con usar comida durante el foreplay o en el sexo?',
+    type: '🔥',
+  },
+  { value: '¿Te gustaría tener sexo inmediatamente al despertar?', type: '🔥' },
+  { value: '¿Te gusta el sexo oral?', type: '🔥' },
+  { value: '¿Qué piensas de darme sexo oral a mí?', type: '🔥' },
+  { value: '¿Te gustaría jugar a cambiar de roles?', type: '🔥' },
+  {
+    value: '¿Alguna vez has tenido una fantasía con otra persona?',
+    type: '🔥',
+  },
+  { value: '¿Has pensado tener un trío?', type: '🔥' },
+  { value: '¿Te gustan los besos con mordidas?', type: '🔥' },
+  { value: '¿Te gustaría que usáramos algún disfraz?', type: '🔥' },
+  { value: '¿Te gustaría un masaje antes de tener sexo?', type: '🔥' },
+  { value: '¿Te gustaría darme un masaje antes de tener sexo?', type: '🔥' },
+  { value: '¿Qué te gusta hacer después de tener sexo?', type: '🔥' },
+  { value: '¿Qué cosas te hacen llegar al orgasmo rápidamente?', type: '🔥' },
   {
     value:
-      '¿Has practicado ejercicios “Kegel” para mejorar tu rendimiento sexual?',
+      '¿Hay alguna parte de tu cuerpo muy específica que te gustaría que besara?',
     type: '🔥',
   },
+  { value: '¿Cómo es el sexo oral perfecto para ti?', type: '🔥' },
   {
-    value: '¿Te excitaría tocar a tu pareja sin usar las manos?',
+    value: '¿Cuál es el recuerdo más sexy que tienes de nosotros dos?',
     type: '🔥',
   },
-  {
-    value:
-      '¿Te has expuesto en alguna ocasión al riesgo de ser pillado practicando el sexo?',
-    type: '🔥',
-  },
-  {
-    value: '¿Conoces el sexo tántrico?, ¿Lo has probado?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Qué harías si ves a alguien del sexo opuesto (en caso de ser heterosexual), que tiene cierto atractivo, desnudo/a?, ¿Te quedarías mirando?',
-    type: '🔥',
-  },
-  {
-    value: '¿Qué piensas del sexo de una noche?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has hecho sexting alguna vez?',
-    type: '🔥',
-  },
-  {
-    value: '¿Harías cibersexo?',
-    type: '🔥',
-  },
+  { value: '¿Hay diferencia entre "hacer el amor" y tener sexo?', type: '🔥' },
+  { value: '¿Cómo estás vestid@?', type: '🔥' },
+  { value: '¿Qué me harías si estuviera ahí contigo?', type: '🔥' },
+  { value: '¿Puedes adivinar qué traigo puesto?', type: '🔥' },
+  { value: '¿Y si me mandas un audio sexy?', type: '🔥' },
+  { value: '¿Qué es lo más sucio que me dirías en la cama?', type: '🔥' },
+  { value: '¿Qué piensas al masturbarte?', type: '🔥' },
+  { value: '¿Te gustaría verme mientras me mastubo?', type: '🔥' },
+  { value: '¿Te gustaría tener sexo por teléfono/Facetime?', type: '🔥' },
+  { value: '¿Te gustaría probar un juguete erótico a distancia?', type: '🔥' },
+  { value: '¿Te gustaría que me grabara masturbándome?', type: '🔥' },
+  { value: '¿Qué es lo más rápido que puedes llegar conmigo?', type: '🔥' },
+  { value: '¿Qué es lo más sucio que te gustaría que te hiciera?', type: '🔥' },
   {
     value:
-      '¿Sabes decir que no cuando algo no te apetece en el terreno sexual?',
+      '¿Nos has imaginado teniendo sexo en una fiesta o alejados de una reunión?',
     type: '🔥',
   },
   {
-    value: '¿Prefieres el sexo duro o delicado?',
+    value: '¿Y si me mandas un video erótico y lo vemos al mismo tiempo?',
     type: '🔥',
   },
   {
     value:
-      '¿Qué es lo que más te gusta hacer para dar placer a la otra persona?',
+      '¿Qué lugares de mi cuerpo te gustaría besar si estuviera a tu lado?',
+    type: '🔥',
+  },
+  { value: '¿Qué parte de mi cuerpo es tu favorita?', type: '🔥' },
+  { value: '¿Te gusta el sexting?', type: '🔥' },
+  { value: '¿Piensas en mí cuando te vas a dormir?', type: '🔥' },
+  {
+    value:
+      '¿Me puedes describir una posición que te gustaría que intentáramos?',
+    type: '🔥',
+  },
+  { value: '¿Tienes algún fetiche?', type: '🔥' },
+  { value: '¿Hay algo que jamás te veas haciendo en la cama?', type: '🔥' },
+  { value: '¿Y si me mandas una foto sexy?', type: '🔥' },
+  {
+    value: '¿Alguna vez alguien te ha atrapado haciendo "algo indebido"?',
     type: '🔥',
   },
   {
-    value: '¿Utilizas las películas porno para darte placer?',
+    value: '¿Alguna vez intentaste algo, para nunca más volver a hacerlo?',
+    type: '🔥',
+  },
+  { value: '¿Te gustaría tener sexo en un coche?', type: '🔥' },
+  { value: '¿Te gustaría que usáramos cera caliente?', type: '🔥' },
+  {
+    value: '¿En qué lugar del mundo te gustaría que lo hiciéramos?',
     type: '🔥',
   },
   {
-    value: '¿Conoces tres frases sugerentes que puedan excitar a tu pareja?',
+    value: '¿Tienes algún secreto sexual que te gustaría contarme?',
     type: '🔥',
   },
   {
-    value: '¿Has tomado suplementos para mantener tu libido en forma?',
+    value: '¿Te gusta la idea de encerrarnos todo un día para tener sexo?',
+    type: '🔥',
+  },
+  {
+    value: '¿Sabes con certeza qué es lo que me gusta en la cama?',
     type: '🔥',
   },
   {
     value:
-      '¿Has leído algún libro de sexualidad para mejorar tu rendimiento o comprender mejor al sexo opuesto?',
-    type: '🔥',
-  },
-  {
-    value: '¿Exploras tu propio cuerpo para descubrir tus zonas erógenas?',
-    type: '🔥',
-  },
-  {
-    value: '¿Buscas maneras de evitar la monotonía?',
-    type: '🔥',
-  },
-  {
-    value: '¿Qué piensas de hacer un trío con tu pareja?',
+      'Si te gusta el sexo rudo, ¿te gustaría tener una palabra de seguridad?',
     type: '🔥',
   },
   {
     value:
-      '¿Has ido mejorando tu desempeño sexual desde que estás con tu pareja?',
+      '¿Te gustaría que nos pusiéramos nombres especiales mientras tenemos sexo?',
     type: '🔥',
   },
+  { value: '¿Te gustaría hacerlo en la playa?', type: '🔥' },
   {
-    value: '¿ Cómo te definirías a ti mismo respecto al sexo?',
+    value: '¿Te emociona que puedan atraparnos mientras tenemos sexo?',
     type: '🔥',
   },
-  {
-    value: '¿Vives la sexualidad con confianza y autoestima?',
-    type: '🔥',
-  },
-  {
-    value: '¿Cuál es tu parte del cuerpo preferida?',
-    type: '🔥',
-  },
+  { value: '¿Te gusta dormir con ropa o desnudo?', type: '🔥' },
   {
     value:
-      '¿Has utilizado el hielo para hacer más intensa la experiencia sexual?',
+      '¿Hay algún mueble con el que te gustaría experimentar nuevas posiciones?',
     type: '🔥',
   },
-  {
-    value: '¿Practicas el sexo más allá del coito o del orgasmo?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has tenido alguna mala experiencia sexual?',
-    type: '🔥',
-  },
+  { value: '¿Te gustaría intentar las posiciones del kama-sutra?', type: '🔥' },
+  { value: '¿Te gustaría usar lubricantes térmicos?', type: '🔥' },
   {
     value:
-      'Si lo necesitaras, ¿buscarías ayuda terapéutica para corregir algún problema sexual?',
+      '¿Te gustaría intentar el sexo anal? 1 ¿Te gusta algún aroma durante el sexo?',
+    type: '🔥',
+  },
+  { value: '¿Te gustaría probar saborizantes para el cuerpo?', type: '🔥' },
+  {
+    value: '¿Alguna vez has experimentado con ropa interior comestible?',
     type: '🔥',
   },
   {
-    value: '¿ Sabes diferenciar lo que es infidelidad de promiscuidad?',
+    value: '¿Te gusta que te rasguñen la espalda o alguna parte del cuerpo?',
     type: '🔥',
   },
-  {
-    value: '¿Qué es lo que más te gusta que te hagan a ti en la cama?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Te gusta desnudarte delante de tu pareja o te sientes incómodo/a por tu apariencia?',
-    type: '🔥',
-  },
+  { value: '¿Te gustaría experimentar con un fuete?', type: '🔥' },
+  { value: '¿Te gusta el sexo de reconciliación?', type: '🔥' },
   {
     value:
-      '¿Conoces los diferentes juegos sexuales para mejorar la calidad del sexo y evitar la monotonía?',
+      '¿Te gustaría intentar la técnica de interrumpir un orgasmo, para volverlo a intentar?',
     type: '🔥',
   },
+  { value: '¿Prefieres las películas o la literatura erótica?', type: '🔥' },
+  { value: '¿Encuentras el sexo como algo divertido?', type: '🔥' },
+  { value: '¿Hay algo que te apague inmediatamente?', type: '🔥' },
   {
     value:
-      '¿Utilizas el sentido del humor para hacer frente a algún contratiempo sexual?',
-    type: '🔥',
-  },
-  {
-    value: '¿Te has planteado alguna vez ser infiel?',
-    type: '🔥',
-  },
-  {
-    value: '¿Cuál es tu parte favorita del cuerpo para que me la chupe?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Prefieres dominarme en la cama o quieres que te domine en la cama?',
-    type: '🔥',
-  },
-  {
-    value: '¿Te gusta que te muerdan o te muerdan ligeramente? ¿Dónde?',
-    type: '🔥',
-  },
-  {
-    value: '¿Cuál es tu juguete sexual favorito para usar en mí?',
-    type: '🔥',
-  },
-  {
-    value: '¿Cuál es la cosa más perversa que has hecho?',
-    type: '🔥',
-  },
-  {
-    value: '¿Cuál es el sueño sexual más caliente que has tenido?',
-    type: '🔥',
-  },
-  {
-    value:
-      'Dime una cosa que podría hacer que te haría tener un orgasmo inmediato',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Cuál es tu tipo de sexo favorito: suave, lento y dulce o agresivo, rápido y luchador?',
-    type: '🔥',
-  },
-  {
-    value:
-      'Si te diera un pase gratis para conectarte con una celebridad, ¿quién sería y por qué?',
-    type: '🔥',
-  },
-  {
-    value: '¿En qué prenda de vestir crees que me veo más sexy?',
-    type: '🔥',
-  },
-  {
-    value: 'Describe mi personalidad en la cama en tres palabras',
-    type: '🔥',
-  },
-  {
-    value: 'Si me esposasen a la cama, ¿qué me harías?',
-    type: '🔥',
-  },
-  {
-    value: '¿Qué parte de tu cuerpo te gusta más?',
-    type: '🔥',
-  },
-  {
-    value: 'Qué piensas de hacer un trío?',
-    type: '🔥',
-  },
-  {
-    value: 'Cómo te sentirías si pillas a tu pareja dándose autoplacer?',
-    type: '🔥',
-  },
-  {
-    value:
-      'Qué tipo de vacaciones preferirías con tu pareja, la montaña, la playa, una zona con ocio nocturno...?',
-    type: '🔥',
-  },
-  {
-    value: 'De qué te disfrazarías como fantasía sexual?',
-    type: '🔥',
-  },
-  {
-    value: 'Has utilizado alimentos afrodisíacos adrede?',
-    type: '🔥',
-  },
-  {
-    value:
-      'Si ves accidentalmente una una persona del sexo opuesto desnuda y no lo sabe, ¿seguirías mirando?',
-    type: '🔥',
-  },
-  {
-    value:
-      'Te resulta excitante acariciar a tu pareja sin tocarla con las manos?',
-    type: '🔥',
-  },
-  {
-    value: 'Qué prefieres, una cara bonita o un cuerpo sexy?',
-    type: '🔥',
-  },
-  {
-    value: 'Cuando algo no te apetece, ¿sabes poner límites?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has puesto a prueba tus fantasías más íntimas?',
-    type: '🔥',
-  },
-  {
-    value: 'Antes de que empezáramos a salir, ¿alguna vez fantaseaste conmigo?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Qué crees que debería ser nuestro siguiente paso para hacer que nuestra vida sexual más emocionante?',
-    type: '🔥',
-  },
-  {
-    value:
-      'Te gusta practicar las relaciones íntimas en lugares poco habituales?',
-    type: '🔥',
-  },
-  {
-    value: '¿Buscarías ayuda para corregir algún problema sexual?',
-    type: '🔥',
-  },
-  {
-    value: '¿Qué es lo más importante para ti en la cama?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has descubierto los gustos sexuales de tu pareja?',
-    type: '🔥',
-  },
-  {
-    value: '¿Qué tres cosas que te excitan?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has hecho llorar a alguna vez a alguien?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has probado el sexo tántrico?',
-    type: '🔥',
-  },
-  {
-    value: '¿Tendrías sexo con alguien que acabas de conocer una noche?',
-    type: '🔥',
-  },
-  {
-    value: '¿Buscas maneras de evitar la monotonía en la cama?',
-    type: '🔥',
-  },
-  {
-    value: '¿Harías cibersexo?',
-    type: '🔥',
-  },
-  {
-    value: 'Cuéntame el sueño más sexy que jamás hayas tenido acerca de mí',
-    type: '🔥',
-  },
-  {
-    value: '¿Le harías un striptease a tu pareja?',
-    type: '🔥',
-  },
-  {
-    value: '¿Qué crees que es la parte más sexy de mi cuerpo?',
-    type: '🔥',
-  },
-  {
-    value: '¿Cuál ha sido la cosa más “loca” que ha hecho por otra persona?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿ Haces trabajar tu creatividad cuando las circunstancias parecen poco favorables (hay gente cerca, hay poco tiempo, etc.)?',
-    type: '🔥',
-  },
-  {
-    value: '¿Exploras tu cuerpo para descubrir tus zonas erógenas?',
-    type: '🔥',
-  },
-  {
-    value: '¿Tomas suplementos para mantener tu líbido en forma?',
-    type: '🔥',
-  },
-  {
-    value:
-      'A pesar del ritmo de vida ajetreado, ¿sabes encontrar un momento para el placer sexual, aunque sea uno “rapidito"?',
-    type: '🔥',
-  },
-  {
-    value: '¿Disfrutas de las películas para adultos?',
-    type: '🔥',
-  },
-  {
-    value: '¿Te atreves a mostrar tu deseo sexual y a tomar la iniciativa?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Te gusta desnudarte delante de tu pareja, independientemente del estado de tu cuerpo?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Con el tiempo has ido adquiriendo habilidades y destrezas que te permitan disfrutar más y mejor a ti y a tu pareja?',
-    type: '🔥',
-  },
-  {
-    value: '¿Alguna vez has preparado un baño sensual para ti y tu pareja?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Has probado a vendar vuestros ojos (el tuyo y el de tu pareja) para poner a prueba el resto de los sentidos?',
-    type: '🔥',
-  },
-  {
-    value: '¿Usas el sentido del humor para hacer frente a algún contratiempo?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Has leído algún libro de sexualidad para mejorar tu rendimiento o comprender mejor al sexo opuesto?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Has recurrido al hielo para hacer más intensa la experiencia sexual?',
-    type: '🔥',
-  },
-  {
-    value: '¿Qué es lo que más te gusta que te hagan en la cama?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has tenido alguna muy mala experiencia sexual?',
-    type: '🔥',
-  },
-  {
-    value: '¿Practicas ejercicios para mejorar tu rendimiento sexual?',
-    type: '🔥',
-  },
-  {
-    value: '¿Practicas el sexo más allá del coito o del orgasmo?',
-    type: '🔥',
-  },
-  {
-    value: '¿Qué adjetivos te definen mejor respecto al sexo?',
-    type: '🔥',
-  },
-  {
-    value: '¿Es bueno probar cosas diferentes en las relaciones íntimas?',
-    type: '🔥',
-  },
-  {
-    value:
-      'Del 1 al 10… ¿cuánta importancia le das al sexo en tus relaciones de pareja?',
-    type: '🔥',
-  },
-  {
-    value: '¿Qué es lo que más te gusta hacer en la cama?',
-    type: '🔥',
-  },
-  {
-    value: '¿Conoces la diferencia entre infidelidad y promiscuidad?',
-    type: '🔥',
-  },
-  {
-    value: '¿Te esfuerzas por averiguar las zonas erógenas de tu pareja?',
-    type: '🔥',
-  },
-  {
-    value: '¿Alguna vez has espiado a una pareja mientras tenían relaciones?',
-    type: '🔥',
-  },
-  {
-    value: '¿Cuál es tu actor/actriz de cine erótico favorito/a?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Cuántas veces calculas que has vomitado en tu vida por culpa de haber bebido demasiado?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Has sentido atracción hacia algún profesor/a en tu etapa universitaria?',
-    type: '🔥',
-  },
-  {
-    value: '¿Te consideras una persona tradicional o atrevida?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has tenido éxito al usar apps de ligoteo?',
-    type: '🔥',
-  },
-  {
-    value: '¿Qué parte de tu cuerpo te gusta menos?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿En qué parte de tu cuerpo te someterías a operaciones de cirujía estética?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Cuáles son los lugares más raros en los que has mantenido relaciones sexuales?',
-    type: '🔥',
-  },
-  {
-    value: '¿Te has sentido atraído alguna vez por un amigo o amiga?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Qué es lo primero en lo que te fijas del cuerpo de un hombre o de una mujer?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has fantaseado alguna vez con alguna celebridad?',
-    type: '🔥',
-  },
-  {
-    value: '¿A qué edad perdiste la virginidad?',
-    type: '🔥',
-  },
-  {
-    value: '¿Cómo sería tu cita ideal?',
-    type: '🔥',
-  },
-  {
-    value: '¿Cuál ha sido tu mejor cita?',
-    type: '🔥',
-  },
-  {
-    value: '¿Cuál ha sido tu peor cita?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has descubierto a tus padres manteniendo relaciones alguna vez?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has fantaseado alguna vez con personas del sexo opuesto?',
-    type: '🔥',
-  },
-  {
-    value: '¿Te han descubierto alguna vez manteniendo relaciones íntimas?',
-    type: '🔥',
-  },
-  {
-    value: '¿Con cuántas personas te has acostado?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has utilizado alguna vez juguetes eróticos?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has tenido alguna vez un “gatillazo”?',
-    type: '🔥',
-  },
-  {
-    value: '¿Consumes pornografía habitualmente?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Has grabado alguna vez un vídeo de contenido íntimo con tu pareja?',
-    type: '🔥',
-  },
-  {
-    value:
-      '¿Alguna vez has encontrado a un conocido o conocida en una app para ligar?',
-    type: '🔥',
-  },
-  {
-    value: '¿Cuál es tu postura sexual favorita?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has tenido un sueño erótico con un amigo o amiga sin desearlo?',
-    type: '🔥',
-  },
-  {
-    value: '¿Te consideras un experto en materia sexual?',
-    type: '🔥',
-  },
-  {
-    value: '¿Cuándo fue la vez que más bebiste?',
-    type: '🔥',
-  },
-  {
-    value: '¿Qué ha sido lo más atrevido que has hecho bebiendo de fiesta?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has ido a alguna playa nudista?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has tenido alguna enfermedad de transmisión sexual?',
-    type: '🔥',
-  },
-  {
-    value: '¿Has sido infiel a tu pareja?',
-    type: '🔥',
-  },
-  {
-    value: '¿Te has besado con más de una persona en una noche?',
-    type: '🔥',
-  },
-  {
-    value: '¿Te has acostado con el ex de algún amigo?',
+      '¿Te gustan las bromas mientras tenemos sexo, o prefieres todo más serio y relajado?',
     type: '🔥',
   },
   {
