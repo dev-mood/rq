@@ -807,7 +807,7 @@ export const questions = [
   { value: '¿Te gustaría usar lubricantes térmicos?', type: '🔥' },
   {
     value:
-      '¿Te gustaría intentar el sexo anal? 1 ¿Te gusta algún aroma durante el sexo?',
+      '¿Te gustaría intentar el sexo anal?',
     type: '🔥',
   },
   { value: '¿Te gustaría probar saborizantes para el cuerpo?', type: '🔥' },
