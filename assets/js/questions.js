@@ -621,14 +621,8 @@ export const questions = [
   },
 
   { value: 'Soñé contigo... ¿te cuento qué pasaba?', type: '🔥' },
-  { value: 'Y... ¿Qué harás esta noche?', type: '🔥' },
   { value: '¿Qué me harás esta noche?', type: '🔥' },
   { value: '¿Hay alguna fantasía que te gustaría hacer conmigo?', type: '🔥' },
-  {
-    value:
-      '¿Tienes que hacer algo después del trabajo? (punto… si mejor preguntas que se escapen un día entero)',
-    type: '🔥',
-  },
   { value: '¿Te gusta el sexo en el día, en la noche... o ahora?', type: '🔥' },
   {
     value: '¿Has tenido alguna fantasía en otro lugar que no sea la cama?',
@@ -806,8 +800,7 @@ export const questions = [
   { value: '¿Te gustaría intentar las posiciones del kama-sutra?', type: '🔥' },
   { value: '¿Te gustaría usar lubricantes térmicos?', type: '🔥' },
   {
-    value:
-      '¿Te gustaría intentar el sexo anal?',
+    value: '¿Te gustaría intentar el sexo anal?',
     type: '🔥',
   },
   { value: '¿Te gustaría probar saborizantes para el cuerpo?', type: '🔥' },

@@ -17,16 +17,17 @@
     </button>
     <template v-if="type && question">
       <p class="question">{{ question.value }}</p>
-      <div class="btn-group">
-        <button type="button" class="button" @click="copyToClipboard">
-          Copiar
+      <div class="footer">
+        <div class="btn-group">
+          <button type="button" class="button" @click="copyToClipboard">
+            Copiar
+          </button>
+        </div>
+        <button type="button" class="button" @click="clear">
+          Elegir otra categoría
         </button>
       </div>
-      <button type="button" class="button" @click="clear">
-        Elegir otra categoría
-      </button>
     </template>
-
     <notifications group="copy" position="bottom center" />
   </div>
 </template>
@@ -39,13 +40,13 @@ export default {
     return {
       links: [
         {
-          type: '🔥',
+          type: '🔥 Caliente',
         },
         {
-          type: '😄',
+          type: '😄 Amistad',
         },
         {
-          type: '❤️',
+          type: '❤️ Amor',
         },
       ],
       type: null,
@@ -55,7 +56,7 @@ export default {
   },
   methods: {
     selectType(type) {
-      this.type = type
+      this.type = type.split(' ')[0]
     },
     generateQuestion() {
       const index = this.getRndInteger(0, this.questionsSelecteds.length - 1)
@@ -108,7 +109,7 @@ export default {
   padding-top: 15px;
 }
 .generate {
-  font-family: 'Fascinate', cursive;
+  font-family: 'Fredoka One';
   font-size: 4vmin;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -155,11 +156,15 @@ export default {
 .question {
   text-align: center;
   margin: 1rem 0;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Fredoka One';
   font-size: 4vmin;
   color: #fff;
 }
 .btn-group {
   margin: 1rem 0;
+}
+.footer {
+  position: fixed;
+  bottom: 1rem;
 }
 </style>
