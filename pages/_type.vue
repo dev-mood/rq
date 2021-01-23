@@ -52,7 +52,7 @@ export default {
     },
     copyToClipboard() {
       const el = document.createElement('textarea')
-      el.value = this.question.value
+      el.value = this.question
       document.body.appendChild(el)
       el.select()
       document.execCommand('copy')
