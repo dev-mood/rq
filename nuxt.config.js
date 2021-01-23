@@ -52,6 +52,10 @@ export default {
     },
   },
 
+  generate: {
+    fallback: true,
+  },
+
   axios: {},
 
   build: {},
