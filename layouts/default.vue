@@ -1,7 +1,11 @@
 <template>
   <div class="container">
     <div class="version">v2.1.1</div>
-    <img src="/logo.png" alt="Logo" class="logo" />
+    <picture>
+      <source type="image/webp" srcset="~/assets/img/logo.webp" />
+      <source type="image/png" srcset="~/assets/img/logo.png" />
+      <img src="~/assets/img/logo.png" alt="Logo" class="logo" />
+    </picture>
     <Nuxt />
   </div>
 </template>

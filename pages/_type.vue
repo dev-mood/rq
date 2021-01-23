@@ -16,7 +16,7 @@
         Elegir otra categoría
       </nuxt-link>
     </div>
-    <notifications group="copy" position="bottom center" />
+    <notifications group="copy" position="top center" />
   </div>
 </template>
 
