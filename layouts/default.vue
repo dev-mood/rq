@@ -1,6 +1,7 @@
 <template>
-  <div>
-    <div class="version">v1.0.0</div>
+  <div class="container">
+    <div class="version">v2.1.1</div>
+    <img src="/logo.png" alt="Logo" class="logo" />
     <Nuxt />
   </div>
 </template>
@@ -40,6 +41,15 @@
   border-image: initial;
   border-radius: 6px;
   user-select: none;
+}
+
+.logo {
+  max-width: 250px;
+}
+
+.container {
+  text-align: center;
+  padding: initial 1rem;
 }
 
 .button {

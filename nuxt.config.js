@@ -39,17 +39,11 @@ export default {
    ** See https://nuxtjs.org/api/configuration-components
    */
   components: true,
-  /*
-   ** Nuxt.js dev-modules
-   */
+
   buildModules: ['@nuxtjs/pwa', '@nuxtjs/color-mode'],
-  /*
-   ** Nuxt.js modules
-   */
-  modules: [
-    // Doc: https://axios.nuxtjs.org/usage
-    '@nuxtjs/axios',
-  ],
+
+  modules: ['@nuxtjs/axios', '@nuxt/content'],
+
   pwa: {
     manifest: {
       name: 'Random Questions',
@@ -57,14 +51,8 @@ export default {
       useWebmanifestExtension: false,
     },
   },
-  /*
-   ** Axios module configuration
-   ** See https://axios.nuxtjs.org/options
-   */
+
   axios: {},
-  /*
-   ** Build configuration
-   ** See https://nuxtjs.org/api/configuration-build/
-   */
+
   build: {},
 }

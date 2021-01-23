@@ -1,0 +1,457 @@
+{
+  "data": [
+    {
+      "value": "¿Tienes algún secreto que no me hayas contado?"
+    },
+    {
+      "value": "Dime tres bandas musicales que te hayan marcado"
+    },
+    {
+      "value": "¿Qué te da miedo?"
+    },
+    {
+      "value": "¿Dónde te irías de vacaciones?"
+    },
+    {
+      "value": "¿Cuál sería tu trabajo soñado?"
+    },
+    {
+      "value": "Si pudieras entrevistar a alguien, ¿quién sería?"
+    },
+    {
+      "value": "¿Tienes algún libro favorito?, ¿Cuál es?"
+    },
+    {
+      "value": "¿Qué es lo que más valoras de nuestra amistad?"
+    },
+    {
+      "value": "¿Qué significado tiene para ti la libertad?"
+    },
+    {
+      "value": "¿Con qué personaje histórico te gustaría cenar?"
+    },
+    {
+      "value": "Si dominaras el mundo, ¿qué harías para cambiarlo?"
+    },
+    {
+      "value": "¿Qué superpoder tendrías si pudieras elegir?"
+    },
+    {
+      "value": "¿Hay alguna prenda de ropa que no te pondrías nunca?"
+    },
+    {
+      "value": "¿Piensas con frecuencia en cómo te sientes?"
+    },
+    {
+      "value": "Dime cuatro series que más te gusten"
+    },
+    {
+      "value": "¿Qué cualidades valoras más en alguien?"
+    },
+    {
+      "value": "¿Cómo ves el futuro?"
+    },
+    {
+      "value": "¿Mar o montaña?"
+    },
+    {
+      "value": "¿Cómo es tu dormitorio?"
+    },
+    {
+      "value": "¿Qué comerías en tu última cena?"
+    },
+    {
+      "value": "¿Te identificas con alguna canción?"
+    },
+    {
+      "value": "¿Cuál es el recuerdo más vergonzoso de tu infancia?"
+    },
+    {
+      "value": "¿Cuál es el estado de ánimo más desagradable para ti?"
+    },
+    {
+      "value": "¿Cuál es tu película favorita?, ¿Por qué?"
+    },
+    {
+      "value": "¿Cómo me describirías?"
+    },
+    {
+      "value": "¿Qué emoción experimentas más?"
+    },
+    {
+      "value": "¿Qué es lo que más te avergüenza delante de otras personas?"
+    },
+    {
+      "value": "¿Qué es lo que más te gusta de ti mismo?"
+    },
+    {
+      "value": "¿Quién te ha influido más en tu vida?"
+    },
+    {
+      "value": "¿Cuál ha sido tu mejor momento este año (hasta ahora)?"
+    },
+    {
+      "value": "¿Qué te gustaría cambiar de ti mismo?"
+    },
+    {
+      "value": "¿Qué te motiva a levantarte cada mañana?"
+    },
+    {
+      "value": "Si pudieras hacer cualquier cosa por el resto de tu vida, ¿qué sería?"
+    },
+    {
+      "value": "Si tuvieras la opción de adoptar un bebé zorro o un bebé koala, ¿cuál elegirías?"
+    },
+    {
+      "value": "Si tuvieras que estar en un reality show, ¿cuál elegirías?"
+    },
+    {
+      "value": "Si pudieras vivir en cualquier parte del mundo durante un año, ¿dónde sería?"
+    },
+    {
+      "value": "¿Cuál fue el juguete más memorable con el que jugaste cuando eras pequeño?"
+    },
+    {
+      "value": "¿Cuántos huesos te has roto en tu vida?"
+    },
+    {
+      "value": "Cuando eras pequeño, ¿qué querías ser?"
+    },
+    {
+      "value": "¿Qué esperas conseguir cuando llegues a los 50?"
+    },
+    {
+      "value": "¿Qué temes de envejecer?"
+    },
+    {
+      "value": "¿Cuál es la cosa de la que estás profundamente orgulloso en tu vida?"
+    },
+    {
+      "value": "¿Hay algo que pueda hacer para que seas más feliz?, ¿Que tu vida sea más fácil?"
+    },
+    {
+      "value": "¿Quiénes son tus tres principales héroes de la vida real?"
+    },
+    {
+      "value": "¿Qué es lo que más quieres en la vida?"
+    },
+    {
+      "value": "¿Cuándo fue la última vez que te perdiste completamente en algo?"
+    },
+    {
+      "value": "¿Cómo alivias el estrés en tu vida?"
+    },
+    {
+      "value": "Si pudieras cambiar tu nombre de pila, ¿a cuál lo cambiarías?"
+    },
+    {
+      "value": "¿100 gatitos o 3 perezosos bebés?"
+    },
+    {
+      "value": "¿Son tus pies del mismo tamaño?"
+    },
+    {
+      "value": "¿Qué te gustaría comer en tu última comida?"
+    },
+    {
+      "value": "Si tuvieras que ponerte un alias, ¿cuál sería tu nombre?"
+    },
+    {
+      "value": "¿Cuánto tiempo tiene el artículo más caducado de tu nevera?"
+    },
+    {
+      "value": "¿Qué comida no comerás bajo ninguna circunstancia?"
+    },
+    {
+      "value": "¿Qué es lo más raro que has hecho en una cita?"
+    },
+    {
+      "value": "¿La última mentira que dijiste/la peor mentira que has dicho nunca?"
+    },
+    {
+      "value": "¿La última vez que lavaste tus jeans/vaqueros?"
+    },
+    {
+      "value": "¿Qué animal se parece más a tu estilo de alimentación?"
+    },
+    {
+      "value": "¿Alguna vez has enviado a alguien un mensaje que no era para él?"
+    },
+    {
+      "value": "¿Cuál es el mejor chiste que has escuchado?"
+    },
+    {
+      "value": "¿Prefieres comer con Marilyn Monroe o con Einstein?"
+    },
+    {
+      "value": "¿Prefieres no ducharte durante un mes o comer la misma comida todos los días durante un mes?"
+    },
+    {
+      "value": "¿Prefieres comer comida para perros o para gatos?"
+    },
+    {
+      "value": "¿Preferirías ser calvo o estar cubierto de pies a cabeza por el pelo?"
+    },
+    {
+      "value": "¿Prefieres ser un genio feo o guapo y estúpido?"
+    },
+    {
+      "value": "¿Prefieres ir al espacio o al fondo del océano?"
+    },
+    {
+      "value": "¿Preferirías vivir en un país que fuera demasiado caliente todo el tiempo o que se congelara todo el tiempo?"
+    },
+    {
+      "value": "¿Prefieres ser pobre con grandes amigos o rico sin ninguno?"
+    },
+    {
+      "value": "Describe cómo es tu chica/chico ideal"
+    },
+    {
+      "value": "Si tu amiga/o te pidiera que mintieras por ella y supieras que te meterías en problemas, ¿lo harías?"
+    },
+    {
+      "value": "¿Cuánto tiempo llevas sin ducharte?"
+    },
+    {
+      "value": "¿Crees que eres valiente?"
+    },
+    {
+      "value": "¿Qué sueño nunca has dicho en voz alta?"
+    },
+    {
+      "value": "¿Qué es lo que lamentas haber hecho o dejado de hacer en tu vida?"
+    },
+    {
+      "value": "¿Estás orgulloso de lo que estás haciendo con tu corazón y tu tiempo ahora mismo?"
+    },
+    {
+      "value": "¿Cuándo fue la última vez que lloraste?"
+    },
+    {
+      "value": "¿Qué es lo que más temes?"
+    },
+    {
+      "value": "¿Alguna vez has cuestionado tus creencias y por qué?"
+    },
+    {
+      "value": "¿Qué personaje de ficción de terror te asusta más?"
+    },
+    {
+      "value": "¿Qué comida te apetece más que ninguna otra?"
+    },
+    {
+      "value": "¿Qué día festivo borrarías de nuestros calendarios si se te diera la oportunidad?"
+    },
+    {
+      "value": "¿Cuál es la palabra más inteligente que conoces?"
+    },
+    {
+      "value": "¿Qué es lo que coleccionas que nadie sabe?"
+    },
+    {
+      "value": "¿Cuál es la cosa más tonta que has hecho en un desafío?"
+    },
+    {
+      "value": "¿Gestionas bien tu tiempo?"
+    },
+    {
+      "value": "¿A qué hora sueles ir a dormir?"
+    },
+    {
+      "value": "¿Tienes una camisa vieja que no puedes tirar?"
+    },
+    {
+      "value": "¿Qué te mantiene ocupado durante los fines de semana?"
+    },
+    {
+      "value": "¿Ha sido la vida difícil para ti hasta ahora?"
+    },
+    {
+      "value": "¿Cuál es la situación de mayor presión en la que ha estado y cómo la has manejado?"
+    },
+    {
+      "value": "¿Qué características hacen que una persona sea “exitosa”?"
+    },
+    {
+      "value": "¿Crees en lo paranormal?"
+    },
+    {
+      "value": "¿Cuál es la peor canción del mundo?"
+    },
+    {
+      "value": "¿Cuál es tu especialidad culinaria?"
+    },
+    {
+      "value": "¿Qué es lo que siempre pospones?"
+    },
+    {
+      "value": "¿Qué guardas en tu mesita de noche?"
+    },
+    {
+      "value": "¿Quién es tu compañero de fechorías?"
+    },
+    {
+      "value": "¿Qué hacen muchos padres que arruinan la vida de sus hijos?"
+    },
+    {
+      "value": "¿Crees que la vida tiene un propósito?, ¿tienes uno?"
+    },
+    {
+      "value": "¿Tienes una corazonada secreta sobre cómo vas a morir?"
+    },
+    {
+      "value": "¿Has estado alguna vez fuera del país?"
+    },
+    {
+      "value": "Tiendes a buscar tus problemas en Google?"
+    },
+    {
+      "value": "Si pudieras aprender cualquier idioma con fluidez, ¿cuál sería?"
+    },
+    {
+      "value": "¿Cuál es tu palabra menos favorita?"
+    },
+    {
+      "value": "¿Cuál fue la cosa por la que más te castigaron?"
+    },
+    {
+      "value": "¿Eres bueno para perdonar a la gente?"
+    },
+    {
+      "value": "¿Existe alguna enfermedad en su familia?"
+    },
+    {
+      "value": "¿Estás cerca de tu familia?"
+    },
+    {
+      "value": "¿Cuál es el sueño más extraño que has tenido?"
+    },
+    {
+      "value": "Cuando eras niño, ¿alguna vez tuviste miedo de un monstruo debajo de la cama o en el armario?"
+    },
+    {
+      "value": "¿Dónde está el lugar más relajante en el que has estado?"
+    },
+    {
+      "value": "¿Tienes algún modelo a seguir?"
+    },
+    {
+      "value": "Cuando eras pequeño, ¿qué querías ser de mayor?"
+    },
+    {
+      "value": "¿Qué es lo que más deseas en este mundo?"
+    },
+    {
+      "value": "¿Tienes un sitio preferido para vivir?"
+    },
+    {
+      "value": "¿Hay algo que pienses que los demás piensan de ti y no es cierto?"
+    },
+    {
+      "value": "Si te hicieras un tatuaje, ¿de qué se trataría?"
+    },
+    {
+      "value": "¿Qué tipo de música te gusta más?"
+    },
+    {
+      "value": "¿Qué clase de personas son las que te dan más lástima?"
+    },
+    {
+      "value": "Si fueses un animal… ¿cuál serías?"
+    },
+    {
+      "value": "¿Quién es la persona más importante de tu vida?"
+    },
+    {
+      "value": "¿Qué es lo que echas más de menos de tu infancia?"
+    },
+    {
+      "value": "¿Qué es lo más extraño que has hecho en una cita?"
+    },
+    {
+      "value": "¿Perdonarías una infidelidad?"
+    },
+    {
+      "value": "¿Cuál ha sido tu mejor momento de tu vida?"
+    },
+    {
+      "value": "¿Con qué personaje de ficción te identificas más?"
+    },
+    {
+      "value": "¿A qué sitio irías a vivir una aventura?"
+    },
+    {
+      "value": "¿Quién te ha influenciado más en esta vida?"
+    },
+    {
+      "value": "¿Cuándo te percataste de que ya eras adulto?"
+    },
+    {
+      "value": "¿Dónde te irías conmigo a pasar unos días?"
+    },
+    {
+      "value": "¿Con qué tipo de personas te daría vergüenza que te vieran?"
+    },
+    {
+      "value": "¿Qué cuatro adjetivos te dicen cómo eres?"
+    },
+    {
+      "value": "¿Qué te gustaría lograr en esta vida?"
+    },
+    {
+      "value": "¿Eres una persona supersticiosa?"
+    },
+    {
+      "value": "¿Te gusta saber lo que está pasando en otros países?"
+    },
+    {
+      "value": "¿Qué es lo que más te gusta sobre tu persona?"
+    },
+    {
+      "value": "Si tuvieras que estar en un reality show, ¿de qué tendría que tratar?"
+    },
+    {
+      "value": "¿Qué tipo de personas son más atractivas para ti?"
+    },
+    {
+      "value": "¿Qué es para ti la infidelidad?"
+    },
+    {
+      "value": "¿En qué situaciones estarías dispuesto o dispuesta a mentir?"
+    },
+    {
+      "value": "¿Cómo definirías tu tipo de sentido del humor?"
+    },
+    {
+      "value": "¿Qué talento desearía tener?"
+    },
+    {
+      "value": "¿A qué sitio irías a relajarte durante unos días?"
+    },
+    {
+      "value": "¿De qué estás más orgulloso en esta vida?"
+    },
+    {
+      "value": "Y… ¿de lo que más te arrepientes?"
+    },
+    {
+      "value": "¿Cuál es tu mayor virtud y tu mayor defecto?"
+    },
+    {
+      "value": "¿Qué te frustra más no haber conseguido?"
+    },
+    {
+      "value": "¿Cómo lidias con la ansiedad?"
+    },
+    {
+      "value": "¿Con qué tipo de personas sientes más inseguridad o timidez?"
+    },
+    {
+      "value": "¿Hasta qué punto llegarías por conseguir fama?"
+    },
+    {
+      "value": "¿Crees que las amistades son para siempre?"
+    }
+  ]
+}
