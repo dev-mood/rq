@@ -6,8 +6,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "export": "nuxt export",
-    "serve": "nuxt serve"
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "@nuxtjs/axios": "latest",
@@ -16,6 +15,7 @@
     "vue-notification": "latest"
   },
   "devDependencies": {
+    "@nuxtjs/color-mode": "^2.0.2",
     "eslint-config-prettier": "latest",
     "eslint-plugin-prettier": "latest",
     "node-sass": "latest",

@@ -1,9 +1,6 @@
 export default {
   ssr: false,
-  /*
-   ** Headers of the page
-   ** See https://nuxtjs.org/api/configuration-head
-   */
+  target: 'static',
   head: {
     htmlAttrs: {
       lang: 'es',
@@ -18,39 +15,15 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: process.env.npm_package_description || '',
+        content: 'Random Questions',
       },
     ],
-    link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      {
-        rel: 'stylesheet',
-        href: '/css/dark.css',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        rel: 'stylesheet',
-        href: '/css/light.css',
-        media: '(prefers-color-scheme: light)',
-      },
-    ],
-    script: [
-      {
-        src: 'https://www.googletagmanager.com/gtag/js?id=UA-171271634-1',
-        async: true,
-      },
-      {
-        src: '/js/gtag.js',
-      },
-      {
-        src: '/js/color-scheme.js',
-      },
-    ],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
   /*
    ** Global CSS
    */
-  css: [],
+  css: ['@/assets/main.css'],
   /*
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
@@ -69,7 +42,7 @@ export default {
   /*
    ** Nuxt.js dev-modules
    */
-  buildModules: ['@nuxtjs/pwa'],
+  buildModules: ['@nuxtjs/pwa', '@nuxtjs/color-mode'],
   /*
    ** Nuxt.js modules
    */
