@@ -127,7 +127,7 @@ export default {
   margin: 1rem 0;
   font-family: 'Fredoka One';
   font-size: 4vmin;
-  color: #fff;
+  color: var(--color);
 }
 .btn-group {
   margin: 1rem 0;
