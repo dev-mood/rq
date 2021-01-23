@@ -7,7 +7,7 @@
       </button>
     </div>
     <div class="footer">
-      <div class="btn-group">
+      <div v-if="question" class="btn-group">
         <button type="button" class="button" @click="copyToClipboard">
           Copiar
         </button>

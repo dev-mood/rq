@@ -1,11 +1,12 @@
 <template>
   <div class="container">
     <div class="version">v2.1.1</div>
-    <picture>
-      <source type="image/webp" srcset="~/assets/img/logo.webp" />
-      <source type="image/png" srcset="~/assets/img/logo.png" />
-      <img src="~/assets/img/logo.png" alt="Logo" class="logo" />
-    </picture>
+    <nuxt-link to="/">
+      <picture>
+        <source type="image/webp" srcset="~/assets/img/logo.webp" />
+        <source type="image/png" srcset="~/assets/img/logo.png" />
+        <img src="~/assets/img/logo.png" alt="Logo" class="logo" /> </picture
+    ></nuxt-link>
     <Nuxt />
   </div>
 </template>
